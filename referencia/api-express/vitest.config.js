@@ -9,7 +9,7 @@ export default defineConfig({
       include: ['src/**'],
       exclude: ['src/server.js', 'src/knex-repository.js', 'src/notifier.js'],
       // Umbral mínimo: si la cobertura baja de aquí, "pnpm test:coverage" falla
-      thresholds: { lines: 80, branches: 80, functions: 80, statements: 80 },
+      thresholds: { lines: 94, branches: 95, functions: 100, statements: 95 },
     },
   },
 });
