@@ -2,7 +2,7 @@
 
 > Copia este archivo en tu repo como `docs/matriz-rotacion.md` y llénalo al inicio de cada semana.
 
-**Grupo**: _nombre del proyecto_ · **Ficha**: _número_ · **Stack**: React + Express + PostgreSQL
+**Grupo**: _api express_ · **Ficha**: _3228970_ · **Stack**: React + Express + PostgreSQL
 
 Capas: **Front** (React) · **API** (backend) · **BD** (integración) · **E2E** (Playwright)
 
@@ -15,10 +15,10 @@ Reglas:
 | Integrante (usuario GitHub) | S1 | S2 | S3 | S4 | S5 | S6 | S7 | S8 | S9 |
 |---|---|---|---|---|---|---|---|---|---|
 | @Duvan-Doncel | E2E | Front | | | | | | | |
-| @integrante-2 | E2E | API | | | | | | | |
-| @integrante-3 | E2E | BD | | | | | | | |
-| @integrante-4 | E2E | | | | | | | | |
-| @integrante-5 | E2E | | | | | | | | |
+| @alvaroespejo2006-source | E2E | API | | | | | | | |
+| @Juan-wiki | E2E | BD | | | | | | | |
+| @ysvalenciarejercito-code | E2E | | | | | | | | |
+
 
 ## Cobertura semanal
 
@@ -26,7 +26,7 @@ Anota la cobertura real al cerrar cada semana. El umbral de la semana siguiente 
 
 | Semana | Frontend (%) | Backend (%) | Umbral configurado para la semana siguiente |
 |---|---|---|---|
-| S1 (línea base) | | | |
+| S1 (línea base) | 100 | 95.34 | Front 100, Back 94 |
 
 ## Registro de vocero aleatorio
 
